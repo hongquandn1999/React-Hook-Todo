@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins";
+}
+.App {
+  text-align: center;
+}
+h1 {
+  color: red;
+  margin-bottom: 25px;
+}
